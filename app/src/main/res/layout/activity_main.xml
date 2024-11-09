@@ -19,7 +19,7 @@
             android:id="@+id/textView"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Welcome To My Apps"
+            android:text="Welcome To My Apps "
             android:textColor="#79747E"
             android:textStyle="bold"
             android:gravity="center"
